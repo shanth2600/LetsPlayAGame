@@ -23,3 +23,5 @@ DB_DATABASE=<database-name>
 DB_USERNAME=<database-user>
 DB_PASSWORD=<database-user-password>
 ```
+
+(you must run the migrations with the artisan commands once the db is setup)
